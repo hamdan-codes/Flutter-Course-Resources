@@ -32,7 +32,7 @@
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
 * [Homebrew for MacOS](https://brew.sh/)
 * [Troubleshooting: Physical iOS Device Testing](https://blog.londonappbrewery.com/troubleshooting-ios-device-testing-for-flutter-38c5da239e62)
-* [Troubleshooting: Physical Android Device Testing](https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08)
+* [Troubleshooting: Physical Android Device Testing](https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08) 
 
 ## Section 5: I Am Poor - App Challenge
 
